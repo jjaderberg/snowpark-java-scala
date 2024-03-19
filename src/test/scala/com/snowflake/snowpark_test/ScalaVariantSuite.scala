@@ -1,7 +1,7 @@
 package com.snowflake.snowpark_test
 
 import com.snowflake.snowpark.types.{Geography, Variant}
-import org.scalatest.FunSuite
+import org.scalatest.funsuite.{AnyFunSuite => FunSuite}
 
 import java.io.UncheckedIOException
 import java.sql.{Date, Time, Timestamp}

@@ -133,7 +133,7 @@
 
         <dependency>
             <groupId>org.scalatest</groupId>
-            <artifactId>scalatest_${scala.compat.version}</artifactId>
+            <artifactId>scalatest-funsuite_${scala.compat.version}</artifactId>
             <version>3.2.18</version>
             <scope>test</scope>
         </dependency>
